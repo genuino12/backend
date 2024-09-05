@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend da aplicação web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genuino12/backend.git"
+  },
+  "author": "lucas genuino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genuino12/backend/issues"
+  },
+  "homepage": "https://github.com/genuino12/backend#readme"
+}
